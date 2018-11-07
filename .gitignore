@@ -2,4 +2,6 @@
 *.swp
 *~
 *.pyc
+.ipynb_checkpoints
+*.slides.html
 
